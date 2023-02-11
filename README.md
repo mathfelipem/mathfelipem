@@ -1,8 +1,8 @@
 ### Hello World! 👋, I'm Matheus Boruchosas!
 
-<p> I'm a data engineer!<br>
-I'm a girl's father!<br>
-I'm a farmer (at Stardew Valley...) </p>
+<p> I'm a data engineer! (and sometimes im a Product Owner too..)  :eyes: <br>
+I'm a girl's father! :family: <br>
+I'm a farmer (at Stardew Valley...) 🎮 </p>
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](
