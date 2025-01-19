@@ -1,6 +1,6 @@
 ### Hello World! 👋, I'm Matheus Boruchosas!
 
-<p> I'm a data engineer! at Santander Brasil. Working with data process to solve some FP&A daily problems.. (and sometimes im a Product Owner too..)  :eyes: <br>
+<p> I'm a data engineer at Santander Brasil. Usually working with data process to solve some FP&A daily problems.. (and sometimes im a Product Owner too..)  :eyes: <br>
 Love games, movie, series and k-pop :family: 🎮 <br>
 
 
